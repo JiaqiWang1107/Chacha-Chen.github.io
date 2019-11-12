@@ -43,8 +43,9 @@ I'm interested in the general field of **Data Mining** and **Machine Learning**.
 	- Advisor:  Prof. [**Weinan Zhang**](http://wnzhang.net/) and Prof. [**Zhenhui (Jessie) Li**](https://faculty.ist.psu.edu/jessieli/Site/index.html)
 
 ## Publication
-- Hua Wei*, Nan Xu*, Huichu Zhang, Guanjie Zheng, Xinshi Zang, **Chacha Chen**, Weinan Zhang, Yanmin Zhu, Kai Xu, and Zhenhui Li, CoLight: Learning Network-level Cooperation for Traffic Signal Control. In Proceedings of the 28th ACM International Conference on Information and Knowledge Management (**CIKM 2019**), Beijing, China, Nov 2019. (Research track with full paper, acceptance rate: ~200/1030=19.4%) [To appear]
-- Hua Wei, **Chacha Chen**, Guanjie Zheng, Kan Wu, Vikash V. Gayah, Kai Xu and Zhenhui Li, PressLight: Learning Max Pressure Control to Coordinate Traffic Signals in Arterial Network. In Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD 2019**), Anchorage, AK, USA, Aug 2019. (Research track with poster presentation, acceptance rate: ~170/1200=14.2%)[code & demo]
+- **Chacha Chen**, Hua Wei, Nan Xu, Guanjie Zheng, Ming Yang, Yuanhao Xiong, Kai Xu and Zhenhui Li. Toward A Thousand Lights: Decentralized Deep Reinforcement Learning for Large-Scale Traffic Signal Control. In Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence (**AAAI'20**). (Acceptance rate: ~20.6\%) [To appear]
+- Hua Wei*, Nan Xu*, Huichu Zhang, Guanjie Zheng, Xinshi Zang, **Chacha Chen**, Weinan Zhang, Yanmin Zhu, Kai Xu, and Zhenhui Li, [CoLight: Learning Network-level Cooperation for Traffic Signal Control](https://arxiv.org/pdf/1905.05717.pdf). In Proceedings of the 28th ACM International Conference on Information and Knowledge Management (**CIKM 2019**), Beijing, China, Nov 2019. (Research track with full paper, acceptance rate: ~200/1030=19.4%)
+- Hua Wei, **Chacha Chen**, Guanjie Zheng, Kan Wu, Vikash V. Gayah, Kai Xu and Zhenhui Li, [PressLight: Learning Max Pressure Control to Coordinate Traffic Signals in Arterial Network](https://dl.acm.org/citation.cfm?id=3330949). In Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD 2019**), Anchorage, AK, USA, Aug 2019. (Research track with poster presentation, acceptance rate: ~170/1200=14.2%)
 
 
 
