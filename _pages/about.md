@@ -43,9 +43,9 @@ I'm interested in the general field of **Data Mining** and **Machine Learning**.
 	- Advisor:  Prof. [**Weinan Zhang**](http://wnzhang.net/) and Prof. [**Zhenhui (Jessie) Li**](https://faculty.ist.psu.edu/jessieli/Site/index.html)
 
 ## Publication
-- **Chacha Chen**, Hua Wei, Nan Xu, Guanjie Zheng, Ming Yang, Yuanhao Xiong, Kai Xu and Zhenhui Li. Toward A Thousand Lights: Decentralized Deep Reinforcement Learning for Large-Scale Traffic Signal Control. In Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence (**AAAI'20**). (Acceptance rate: ~20.6\%) [[<span">**Paper**</span>](/files/chacha-AAAI2020.pdf)]
-- Hua Wei*, Nan Xu*, Huichu Zhang, Guanjie Zheng, Xinshi Zang, **Chacha Chen**, Weinan Zhang, Yanmin Zhu, Kai Xu, and Zhenhui Li, [CoLight: Learning Network-level Cooperation for Traffic Signal Control](https://arxiv.org/pdf/1905.05717.pdf). In Proceedings of the 28th ACM International Conference on Information and Knowledge Management (**CIKM 2019**), Beijing, China, Nov 2019. (Acceptance rate: ~200/1030=19.4%)[[<span">**Paper**</span>](http://personal.psu.edu/hzw77/publications/colight-cikm19.pdf)]
-- Hua Wei, **Chacha Chen**, Guanjie Zheng, Kan Wu, Vikash V. Gayah, Kai Xu and Zhenhui Li, [PressLight: Learning Max Pressure Control to Coordinate Traffic Signals in Arterial Network](https://dl.acm.org/citation.cfm?id=3330949). In Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD 2019**), Anchorage, AK, USA, Aug 2019. (Acceptance rate: ~170/1200=14.2%)[[<span">**Paper**</span>](http://personal.psu.edu/hzw77/publications/presslight-kdd19.pdf)]
+- **Chacha Chen**, Hua Wei, Nan Xu, Guanjie Zheng, Ming Yang, Yuanhao Xiong, Kai Xu and Zhenhui Li. Toward A Thousand Lights: Decentralized Deep Reinforcement Learning for Large-Scale Traffic Signal Control. In Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence (**AAAI'20**). (Acceptance rate: ~20.6\%) [[**Paper**](/files/chacha-AAAI2020.pdf)]
+- Hua Wei*, Nan Xu*, Huichu Zhang, Guanjie Zheng, Xinshi Zang, **Chacha Chen**, Weinan Zhang, Yanmin Zhu, Kai Xu, and Zhenhui Li, [CoLight: Learning Network-level Cooperation for Traffic Signal Control](https://arxiv.org/pdf/1905.05717.pdf). In Proceedings of the 28th ACM International Conference on Information and Knowledge Management (**CIKM 2019**), Beijing, China, Nov 2019. (Acceptance rate: ~200/1030=19.4%)[[**Paper**](http://personal.psu.edu/hzw77/publications/colight-cikm19.pdf)]
+- Hua Wei, **Chacha Chen**, Guanjie Zheng, Kan Wu, Vikash V. Gayah, Kai Xu and Zhenhui Li, [PressLight: Learning Max Pressure Control to Coordinate Traffic Signals in Arterial Network](https://dl.acm.org/citation.cfm?id=3330949). In Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD 2019**), Anchorage, AK, USA, Aug 2019. (Acceptance rate: ~170/1200=14.2%)[[**Paper**](http://personal.psu.edu/hzw77/publications/presslight-kdd19.pdf)]
 
 
 
@@ -90,7 +90,7 @@ _Research Assistant, Advisor: Prof. Xiaolin Huang Sep.2017 - Mar.2018_
 - Implemented various vector machine algorithms, including KVM, LSSVM, kPCA
 
 ## Contact
-- Email: chachachen1997@gmail.com
+- Email: cjc6647@psu.edu
 <!--- Tel: (+1)8146992243-->
 <!--- Skype: chachachen1997-->
 <!--- Address: 800 Dongchuan Rd, Minhang Campus, Shanghai Jiaotong University, Shanghai-->
