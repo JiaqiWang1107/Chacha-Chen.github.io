@@ -13,7 +13,8 @@ About me
 
 
 
-Hi, it's Chacha. I am a first year PhD student in IST at Penn State University. I am fortunate to be advised by  [Prof. **Zhenhui Jessie Li**](https://faculty.ist.psu.edu/jessieli).  Before joining Penn State, I received my bachelor's degree from Shanghai Jiao Tong University.
+Hi, it's Chacha. I am a first year PhD student in IST at Penn State University. I am fortunate to be advised by  [Prof. **Kenneth Ting-hao Huang**](https://crowd.ist.psu.edu/index.html).  Before joining Penn State, I received my bachelor's degree from Shanghai Jiao Tong University. I spent a wonderful year working with [Prof. **Zhenhui Jessie Li**](https://faculty.ist.psu.edu/jessieli) in Hangzhou CityBrain Lab.
+
 
 <!--Computer Science, **Shanghai Jiao Tong University**. 
 -->
